@@ -1,0 +1,2 @@
+# Teleto
+Smartphone shop
